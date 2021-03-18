@@ -10,8 +10,8 @@ pipeline {
     }
 
     environment {
-        DEV_PROJECT = "ckin123-books-dev"
-        STAGE_PROJECT = "ckin123-books-stage"
+        DEV_PROJECT = "cheekin0883-books-dev"
+        STAGE_PROJECT = "cheekin0883-books-stage"
         APP_GIT_URL = "https://github.com/ckin123/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.ap45.prod.nextcle.com/repository/nodejs"
 
